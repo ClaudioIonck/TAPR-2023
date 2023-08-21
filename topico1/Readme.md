@@ -5,6 +5,7 @@
 
 ### Perguntas
 - Como se dá a comunicação entre os microsserviços?
+  
 A comunicação entre microsserviços geralmente é feita por meio de protocolos de rede, como HTTP/HTTPS, gRPC, ou até mesmo mensagens assíncronas, como AMQP (Advanced Message Queuing Protocol). Os microsserviços podem se comunicar de várias maneiras, como chamadas síncronas (requisições HTTP) ou assíncronas (mensagens em fila). APIs bem definidas são usadas para permitir que os microsserviços troquem informações e realizem operações.
 - Como é feito o armazenamento dos dados de cada microsserviço?
 - Qual a relação entre o tamanho do microsserviço e seu [acoplamento](https://pt.wikipedia.org/wiki/Acoplamento_fraco)?
