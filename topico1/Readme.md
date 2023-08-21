@@ -82,3 +82,11 @@ A tolerância a falhas é crucial para microsserviços porque esses componentes 
 
 ### Perguntas
 - Definir, segundo o DDD, Domain, Subdomain, Domain Model e Bounded context?
+
+Domínio: A área de um problema que o software aborda, incluindo conceitos e regras.
+
+Subdomínio: Uma subdivisão específica do domínio geral, com regras próprias.
+
+Modelo de Domínio: Uma representação estruturada das regras e conceitos do domínio.
+
+Contexto Delimitado: Um limite que define onde um modelo de domínio se aplica, evitando ambiguidades.
