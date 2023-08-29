@@ -90,4 +90,8 @@ Subdomínio: Uma subdivisão específica do domínio geral, com regras próprias
 Modelo de Domínio: Uma representação estruturada das regras e conceitos do domínio.
 
 Contexto Delimitado: Um limite que define onde um modelo de domínio se aplica, evitando ambiguidades.
+
+### [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html)
+### [Domain Analysis](https://learn.microsoft.com/en-us/azure/architecture/microservices/model/domain-analysis?WT.mc_id=AZ-MVP-5003638)
+
 - FINAL
